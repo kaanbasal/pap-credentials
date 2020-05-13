@@ -12,4 +12,7 @@ It requires a machine with 2 ethernet ports
 It reads packets from one network interface and relays all the packets without touching anything to the other, and vice versa.
 If it captures any PAP packet containing username and password, it logs the information.
 
+## NOTE
+Windows users need to install NPCAP to use
+
 **Use at your own risk** 
